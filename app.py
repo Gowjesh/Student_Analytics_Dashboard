@@ -14,9 +14,7 @@ st.set_page_config(
 st.title("🎓 Student Analytics Dashboard")
 st.caption("📊 Student Performance Analysis System")
 
-df = pd.read_csv(
-    r"C:\Users\Gowje\OneDrive\Attachments\Training\student_data.csv"
-)
+df = pd.read_csv("./student_data.csv")
 
 if "Age" in df.columns:
     df["Age"] = df["Age"].fillna(df["Age"].mean()).astype(float).round(2)

@@ -1,4 +1,4 @@
-# Student Analytics Dashboard
+#Student_Streamlit
 
 A web-based Student Analytics Dashboard developed using Streamlit, Pandas, NumPy, and Matplotlib. The application allows users to manage student records, analyze performance, and visualize data through interactive charts.
 
@@ -50,8 +50,8 @@ Student-Analytics-Dashboard/
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd Student-Analytics-Dashboard
+git clone https://github.com/Gowjesh/Student_Streamlit.git
+cd Student_Streamlit
 ```
 
 ### Install Dependencies

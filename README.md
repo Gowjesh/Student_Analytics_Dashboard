@@ -1,4 +1,4 @@
-#Student_Streamlit
+# Student_Streamlit
 
 A web-based Student Analytics Dashboard developed using Streamlit, Pandas, NumPy, and Matplotlib. The application allows users to manage student records, analyze performance, and visualize data through interactive charts.
 
